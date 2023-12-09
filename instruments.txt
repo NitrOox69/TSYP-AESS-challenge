@@ -1,0 +1,7 @@
+eyes and ears: in order to simulate the experience of being a human on other planets a human-eye-wide-view camera and several microphones have to be integrated in the rover. this can give humans a glimpse of what is like to walk on other planets on our galaxy
+robotic-arm: used to pick up small object, gathering samples or rocks...
+drill:  drilling rocks in order to observe their inside composition.
+samples-storing: a small secure body on the rover that contains the collected samples in safe conserving environnement.
+front sensor: detecting obstacles near the rover in order to protect it from lethal damage by innitiating emergency stoping.
+High-torque motors: to facilitate the navigation through harsh terrains.
+antennas: to transmit an emit messages
